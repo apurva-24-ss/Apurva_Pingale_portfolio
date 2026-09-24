@@ -12,6 +12,9 @@ desktop.ini
 *.sln
 *.sw?
 
+# Vercel
+.vercel
+
 # Node modules / build output (if any)
 node_modules/
 dist/

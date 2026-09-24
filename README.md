@@ -1,6 +1,6 @@
 # Apurva Pingale - AI/ML Engineer Portfolio
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-teal?style=for-the-badge&logo=google-chrome)](https://apurva-24-ss.github.io/Apurva_Pingale_portfolio/)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fapurva-24-ss%2FApurva_Pingale_portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Apurva_Pingale-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/apurva-pingale01/)
 [![GitHub](https://img.shields.io/badge/GitHub-apurvapingale-181717?style=for-the-badge&logo=github)](https://github.com/apurvapingale)
 
